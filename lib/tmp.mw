@@ -1,5 +1,5 @@
 interface(quiet=true);
 writeto("./result.txt");
-19443195^9561343 mod 111570131;
+5003982159^1351681733 mod 10137814369;
 writeto(terminal);
 interface(quiet=false);
